@@ -107,5 +107,5 @@
 
 # Примеры использования
 
-[ОСкрипты для деплоя и копирования базы данных](http://infostart.ru/public/617478/) и они [же на github](http://infostart.ru/redirect.php?url=aHR0cHM6Ly9naXRodWIuY29tL1N0ZXBhODYvMUMtRGVwbG95LWFuZC1Db3B5REI=)
+[ОСкрипты для деплоя и копирования базы данных](http://infostart.ru/public/617478/) и они [же на github](https://github.com/Stepa86/1C-Deploy-and-CopyDB)
 
